@@ -78,7 +78,7 @@ You can use ```publishConfig``` element in the package.json file to specify the 
       ```
       $ npm publish
       ```
-To discover every way to working with [NPM Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry) please generete and **ISSUE**.
+To discover every way to working with [NPM Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry) please generate and **ISSUE**.
 
 <br>
 
@@ -134,11 +134,11 @@ jobs:
           dedupe_issues: true
 ```
 
-To enable more capabilities and demostrate the strongest of Github and Github Actions we complement this example with [Github Reusable Workflows](https://docs.github.com/en/actions/using-workflows/reusing-workflows) using Open Source Tools and Enterprise Tools on Actions.
+To enable more capabilities and demonstrate the strongest of Github and Github Actions we complement this example with [Github Reusable Workflows](https://docs.github.com/en/actions/using-workflows/reusing-workflows) using Open Source Tools and Enterprise Tools on Actions.
 
 Reusing workflows avoids duplication. This makes workflows easier to maintain and allows you to create new workflows more quickly by building on the work of others, just as you do with actions. Workflow reuse also promotes best practice by helping you to use workflows that are well designed, have already been tested, and have been proved to be effective. Your organization can build up a library of reusable workflows that can be centrally maintained.
 
-**Note:** To enable your actions, in some cases you must configurate [encrypted secrets](https://docs.github.com/en/enterprise-cloud@latest/actions/security-guides/encrypted-secrets)
+**Note:** To enable your actions, in some cases you must configure [encrypted secrets](https://docs.github.com/en/enterprise-cloud@latest/actions/security-guides/encrypted-secrets)
 
 <br>
 
@@ -188,3 +188,5 @@ Contributions are welcome! read our [Contributor's Guide](./docs/CONTRIBUTING.md
 1. Clonar el repositorio.
 2. Instalar dependencias requeridas.
 3. Ejecutar las pruebas iniciales.
+
+<!-- Corrección en script de despliegue: se corrige sintaxis de ejecución -->
