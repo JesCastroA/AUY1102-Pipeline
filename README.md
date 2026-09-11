@@ -188,3 +188,5 @@ Contributions are welcome! read our [Contributor's Guide](./docs/CONTRIBUTING.md
 1. Clonar el repositorio.
 2. Instalar dependencias requeridas.
 3. Ejecutar las pruebas iniciales.
+
+<!-- Corrección en script de despliegue: se corrige sintaxis de ejecución -->
